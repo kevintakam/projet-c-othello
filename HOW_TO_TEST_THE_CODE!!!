@@ -1,0 +1,9 @@
+To test , uplaod the files then change the name by deleting the "final_"part.
+Otherwise you'll have some include errors.
+
+The SDL code version is available in the drive link below:
+https://drive.google.com/drive/folders/1AoGQtBUHrrPXEErDCVDRmef7Mw5X24TV?usp=sharing
+
+Either check the drive OR you can just check the release to see the final outcome of the SDL version.
+
+Everything else works fine. The music plays infinitly.
